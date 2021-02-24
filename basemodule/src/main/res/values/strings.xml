@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BaseModule</string>
+    <string name="no_network_connection">无网络连接</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="load_more_loading">正在加载...</string>
+    <string name="load_more_end">--   the end   --</string>
+    <string name="load_more_fail">加载失败，请点击重试</string>
+    <string name="wait">请稍后...</string>
+    <string name="commit">提交</string>
+    <string name="press_again_exit">再按一次退出</string>
+    <string name="about">
+        红色地标（北京）文化传播有限公司是一家从事以红色题材、国家题材为主体的专业影视机构。成立十多年来，公司秉承“用红色引领事业、用精品赢得声誉、用执着铸就辉煌 ”的理念，坚持以传播红色文化、保护红色资源、弘扬红色精神为己任，充分发挥媒体资源和VR技术优势，精心打造了一批影视精品和VR成品，并在虚拟现实行业展现了高度的爱国主义精神和较高的专业水平。
+    </string>
+    <string name="test">1.0.0\n未安装</string>
+</resources>
